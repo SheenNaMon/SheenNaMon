@@ -1,4 +1,4 @@
-[<img src="/saadeghi/saadeghi/blob/master/dino.gif?raw=true" alt="dino.gif" width='1000;'height='700'>]
+![My Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 ## Hi World!
 I'm Shirin N. Monfared (Sheen NaMon)

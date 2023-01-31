@@ -1,7 +1,7 @@
 ![My Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-## Hi World!
-I'm Shirin N. Monfared (Sheen NaMon)
+#### Hi World!
+### I'm Shirin N. Monfared (Sheen NaMon)
 A T-shaped designer: Junior Front-End Developer, UX/UI Designer & Graphist.
 
 ### 😄 Pronouns: シナモン / شیرین منفرد

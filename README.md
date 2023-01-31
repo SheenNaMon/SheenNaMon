@@ -4,9 +4,9 @@
 I'm Shirin N. Monfared (Sheen NaMon)
 A T-shaped designer: Junior Front-End Developer, UX/UI Designer & Graphist.
 
-😄 Pronouns: シナモン / شیرین منفرد
-⚡ Fun fact: I know HTML / CSS / SCSS, English, Persian, Persian sign language. Figma / Adobe Creative Suite.
-🔭 I’m currently working on my own company.
+##😄 Pronouns: シナモン / شیرین منفرد
+##⚡ Fun fact: I know HTML / CSS / SCSS, English, Persian, Persian sign language. Figma / Adobe Creative Suite.
+##🔭 I’m currently working on my own company.
 
 
 

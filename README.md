@@ -6,7 +6,6 @@
 
 ### 🤖 Pronouns: シナモン / شیرین منفرد
 ### ⚡ Fun fact: I know HTML / CSS / SCSS, English, Persian, Persian sign language. Figma / Adobe Creative Suite.
-### 🔭 I’m currently working on my own company.
 
 
 

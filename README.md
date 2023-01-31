@@ -1,5 +1,5 @@
+<img src="(https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)" style="width:500px;height:600px;">
 
-<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true" alt=]"Sheen's 🦕" style="width:500px;height:600px;">
 ## Hi World!
 I'm Shirin N. Monfared (Sheen NaMon)
 A T-shaped designer: Junior Front-End Developer, UX/UI Designer & Graphist.

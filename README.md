@@ -1,4 +1,4 @@
-<img src="(https://github.com/saadeghi/saadeghi/blob/master/dino.gif?raw=true)" width="500px" />
+<img src="/saadeghi/saadeghi/blob/master/dino.gif?raw=true" alt="dino.gif">
 
 ## Hi World!
 I'm Shirin N. Monfared (Sheen NaMon)

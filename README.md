@@ -1,11 +1,8 @@
 ![My Dino](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 #### Hi World!
-### I'm Shirin N. Monfared (Sheen NaMon)
 ### A T-shaped designer: Junior Front-End Developer, UX/UI Designer & Graphist.
-
-### 🤖 Pronouns: シナモン / شیرین منفرد
-### ⚡ Fun fact: I know HTML / CSS / SCSS, English, Persian, Persian sign language. Figma / Adobe Creative Suite.
+### ⚡ Fun fact: I know HTML / CSS / SCSS, English, Persian, and Persian sign language. Figma / Adobe Creative Suite.
 
 
 
